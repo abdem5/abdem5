@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/badge/bloglovin-000000?style=flat-square&logo=blog&logoColor=white"/>
-### Hi there 👋! I'm Java Web Full Stack Developer.
+
+### Hi there 👋!
 
 <!--
 **abdem5/abdem5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
